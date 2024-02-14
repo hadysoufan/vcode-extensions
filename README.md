@@ -1,6 +1,6 @@
 ## VS Code Extensions and Their Uses
 
-This README provides information about several useful VS Code extensions and their purposes. These extensions enhance the development experience for various programming tasks.
+This readme file aims to provide CSCI315 - Web Application Development students some usefull extensions to enhance the development experience for various programming tasks
 
 ### Pylance
 ![Screenshot from 2024-02-14 14-06-28](https://github.com/hadysoufan/vcode-extensions/assets/110059893/38c7e603-8b2e-4363-bd48-117837dd5304)
